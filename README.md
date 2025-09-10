@@ -1,21 +1,21 @@
 # GovBank Analytics 
 
-Phân tích và trực quan dữ liệu **giá cổ phiếu** các **ngân hàng quốc doanh** Việt Nam bằng **R**.
+Phân tích và trực quan dữ liệu giá cổ phiếu các ngân hàng quốc doanh Việt Nam bằng R.
 
 
 ---
 
-## 🚀 Giới thiệu
-Dự án tập trung vào **thăm dò, phân tích và trực quan hóa dữ liệu giá chứng khoán** của các **ngân hàng quốc doanh Việt Nam** gồm:
+##  Giới thiệu
+Dự án tập trung vào thăm dò, phân tích và trực quan hóa dữ liệu giá chứng khoán của các ngân hàng quốc doanh Việt Nam gồm:
 - **Agribank**
 - **BIDV (BID)**
 - **VietinBank (CTG)**
 
 Mục tiêu chính:
--  **Dự đoán xu hướng thị trường** → Giúp nhà đầu tư nhận biết thời điểm mua/bán hợp lý.
--  **Đánh giá hiệu suất cổ phiếu** → So sánh hiệu suất và mức biến động giữa các ngân hàng.
--  **Quản lý rủi ro** → Xác định biến động giá để tối ưu hóa chiến lược đầu tư.
--  **Quyết định đầu tư** → Cung cấp báo cáo trực quan phục vụ nhà đầu tư.
+-  Dự đoán xu hướng thị trường → Giúp nhà đầu tư nhận biết thời điểm mua/bán hợp lý.
+-  Đánh giá hiệu suất cổ phiếu → So sánh hiệu suất và mức biến động giữa các ngân hàng.
+-  Quản lý rủi ro → Xác định biến động giá để tối ưu hóa chiến lược đầu tư.
+-  Quyết định đầu tư → Cung cấp báo cáo trực quan phục vụ nhà đầu tư.
 
 ---
 
@@ -49,7 +49,7 @@ Sử dụng **ggplot2** và **plotly** để tạo biểu đồ:
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 | Công nghệ | Vai trò |
 |----------|-------------------------|
